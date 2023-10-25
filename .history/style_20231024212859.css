@@ -33,7 +33,7 @@ header div {
 
 
 main {
-    min-height: 2600px;
+    max-height: 1200px;
     background-image: linear-gradient(to bottom, #03051F, #16194D, #181A36, #222338, #141C2E);
 }
 
