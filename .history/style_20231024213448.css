@@ -451,7 +451,7 @@ input[type=text] {
 
 
 footer {
-    max-height: 70px;
+    maxheight: 70px;
     display: flex;
     justify-content: center;
     align-items: center;
